@@ -1,0 +1,14 @@
+# Created by IDE
+.idea/
+*.iml
+.DS_Store
+
+# Created by Builder
+dist
+
+# Node
+logs
+*.log
+npm-debug.log*
+node_modules
+.npm
