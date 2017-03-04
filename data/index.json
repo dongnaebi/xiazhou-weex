@@ -1,0 +1,131 @@
+{
+  "status":1,
+  "msg":"",
+  "data":{
+    "hotSearch":"iPhone 7 plus",
+    "cartCount":5,
+    "banner": [
+      {
+        "img": "https://m.360buyimg.com/mobilecms/s720x322_jfs/t4354/297/493834931/122954/880e0cfd/58b562a0N4ea3b277.jpg!q70.jpg",
+        "link": "http://localhost:8080/#/list/1"
+      },
+      {
+        "img": "https://m.360buyimg.com/mobilecms/s720x322_jfs/t4366/295/783385718/45577/cf586a1a/58b9447aN2863a38b.jpg!q70.jpg",
+        "link": "http://localhost:8080/#/list/2"
+      },
+      {
+        "img": "https://m.360buyimg.com/mobilecms/s720x322_jfs/t4216/187/637595821/61135/d315e23e/58b7badaN584fab4c.jpg!q70.jpg",
+        "link": "http://localhost:8080/#/list/3"
+      },
+      {
+        "img": "https://img11.360buyimg.com/da/jfs/t2896/28/3840126831/67394/18252cff/5799810bN93e72158.jpg",
+        "link": "http://localhost:8080/#/list/4"
+      }
+    ],
+    "menu": {
+      "bg": "",
+      "item": [
+        {
+          "img": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3664/66/52394080/14046/acfe1fa3/57fdae81Ne7ddbab9.png",
+          "link": "http://localhost:8080/#/list/1?from=nav1",
+          "text": "京东超市"
+        },
+        {
+          "img": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3286/167/1907269933/15789/da204cbe/57d53f16Nf3431cbd.png",
+          "link": "http://localhost:8080/#/list/2?from=nav2#a",
+          "text": "全球购"
+        },
+        {
+          "img": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3208/285/1806438443/12227/e35aa8d/57d5407cN0d6adf20.png",
+          "link": "http://localhost:8080/#/list/3#bbb",
+          "text": "服装城"
+        },
+        {
+          "img": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3187/207/2269822667/14681/29321e2c/57de58ecN0eede46f.png",
+          "link": "http://localhost:8080/#/list/4?from=nav4&v=1",
+          "text": "生鲜"
+        },
+        {
+          "img": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3136/365/2063682730/11309/c3ce0c78/57d9443eN68c52b40.png",
+          "link": "http://localhost:8080/#/list/5",
+          "text": "火车票"
+        },
+        {
+          "img": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t4105/300/1053186796/16252/41a7dc9/5865fff4Ne543a0fe.png",
+          "link": "http://localhost:8080/#/product/4546?from=nav5",
+          "text": "充值中心"
+        },
+        {
+          "img": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3424/278/301037516/11616/98748707/58096edbNcd05f66b.png",
+          "link": "http://localhost:8080/#/product/4546",
+          "text": "会赚钱"
+        },
+        {
+          "img": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t4300/339/400935198/15697/87158a44/58b40a24N54bf9d3a.png",
+          "link": "http://localhost:8080/#/product/4546",
+          "text": "领券"
+        },
+        {
+          "img": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3199/169/1818813995/12570/62402b0d/57d54364Needc47cd.png",
+          "link": "http://localhost:8080/#/product/4546",
+          "text": "物流查询"
+        },
+        {
+          "img": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3211/295/1824792746/12749/a74e2524/57d543ebN25337ef2.png",
+          "link": "http://localhost:8080/#/product/4546",
+          "text": "我的关注"
+        }
+      ]
+    },
+    "news": [
+      {
+        "id": 12416,
+        "text": "女人节，服饰鞋包跨店铺3件8折！"
+      },
+      {
+        "id": 12416,
+        "text": "泰格豪雅中超独家首发领券减四千"
+      },
+      {
+        "id": 12416,
+        "text": "女人节，服饰鞋包跨店铺3件8折！"
+      },
+      {
+        "id": 12416,
+        "text": "泰格豪雅中超独家首发领券减四千"
+      }
+    ],
+    "tabBar":[
+      {
+        "img":"//st.360buyimg.com/m/images/index/a-home.png",
+        "selectImg": "//st.360buyimg.com/m/images/index/a-home.png",
+        "text": "",
+        "link": ""
+      },
+      {
+        "img":"//st.360buyimg.com/m/images/index/n-catergry.png",
+        "selectImg": "//st.360buyimg.com/m/images/index/a-home.png",
+        "text": "",
+        "link": ""
+      },
+      {
+        "img":"//st.360buyimg.com/m/images/index/n-find.png",
+        "selectImg": "//st.360buyimg.com/m/images/index/a-home.png",
+        "text": "",
+        "link": ""
+      },
+      {
+        "img":"//st.360buyimg.com/m/images/index/n-cart.png",
+        "selectImg": "//st.360buyimg.com/m/images/index/a-home.png",
+        "text": "",
+        "link": ""
+      },
+      {
+        "img":"//st.360buyimg.com/m/images/index/n-me.png",
+        "selectImg": "//st.360buyimg.com/m/images/index/a-home.png",
+        "text": "",
+        "link": ""
+      }
+    ]
+  }
+}

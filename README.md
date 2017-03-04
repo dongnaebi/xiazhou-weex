@@ -1,2 +1,2 @@
 # xiazhou-weex
-a demo for weex project
+这是一个未完成的项目

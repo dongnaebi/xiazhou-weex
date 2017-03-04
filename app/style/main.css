@@ -1,0 +1,94 @@
+.black{ color: #333 }
+.black-bg { background-color: #333 }
+.grey-6 { color: #666 }
+.grey-6-bg { background-color: #666 }
+.grey-9 { color: #999 }
+.grey-9-bg { background-color: #999 }
+.grey-d { color: #ddd }
+.grey-d-bg { background-color: #ddd }
+.grey-f{ color: #f5f5f5 }
+.grey-f-bg { background-color: #f5f5f5 }
+.light { color: #fff }
+.light-bg { background-color: #fff }
+.red { color: #e12e2e }
+.red-bg { background-color: #e12e2e }
+.orange{ color: #f60 }
+.orange-bg { background-color: #f60 }
+.yellow { color: #fbcb30 }
+.yellow-bg { background-color: #fbcb30 }
+.green { color: #8fd14c }
+.green-bg { background-color: #8fd14c }
+.blue { color: #3caaff }
+.blue-bg { background-color: #3caaff }
+.pink { color: #fb5c9b }
+.pink-bg { background-color: #fb5c9b }
+.purple { color: #a776d9 }
+.purple-bg { background-color: #a776d9 }
+
+.font-36 { font-size: 36px }
+.font-32 { font-size: 32px }
+.font-30 { font-size: 30px }
+.font-28 { font-size: 28px }
+.font-26 { font-size: 26px }
+.font-24 { font-size: 24px }
+.font-22 { font-size: 22px }
+.font-20 { font-size: 20px }
+.text-center { text-align:center;}
+.normal { font-weight: normal }
+.bold { font-weight: bold }
+.ellipsis {lines:1; text-overflow: ellipsis;}
+
+.relative { position: relative }
+.absolute { position: absolute }
+.fixed { position: fixed }
+.sticky{ position: sticky}
+.margin { margin: 20px }
+.margin-top { margin-top: 20px }
+.margin-right { margin-right: 20px }
+.margin-bottom { margin-bottom: 20px }
+.margin-left { margin-left: 20px }
+.padding { padding: 20px }
+.padding-top { padding-top: 20px }
+.padding-right { padding-right: 20px }
+.padding-bottom { padding-bottom: 20px }
+.padding-left { padding-left: 20px }
+.border-top{border-top-width:1px;border-color:#dfdfdf}
+.border-bottom{border-bottom-width:1px;border-color:#dfdfdf}
+.border-left{border-left-width:1px;border-color:#dfdfdf}
+.border-right{border-right-width:1px;border-color:#dfdfdf}
+
+.row{flex-direction: row;}
+.col{flex-direction: column;}
+.flex-wrap{flex-wrap:wrap}
+/*主轴对齐方式*/
+.justify-start{justify-content:flex-start;}
+.justify-end{justify-content:flex-end;}
+.justify-center {justify-content:center;}
+.justify-between {justify-content:space-between;}
+.justify-around {justify-content:space-around;}
+/*侧轴对齐方式*/
+.align-start {align-items:flex-start;}
+.align-end {align-items:flex-end;}
+.align-center {align-items:center;}
+.align-baseline {align-items:baseline;}
+.align-stretch {align-items:stretch;}
+/*主轴换行时行在侧轴的对齐方式，必须定义flex-wrap为换行*/
+.content-start {align-content:flex-start;}
+.content-end {align-content:flex-end;}
+.content-center {align-content:center;}
+.content-between {align-content:space-between;}
+.content-around {align-content:space-around;}
+.content-stretch {align-content:stretch;}
+/*允许子元素收缩*/
+.child-grow { flex-grow: 1;}/*允许拉伸*/
+.child-shrink {flex-shrink: 1;}/*允许收缩*/
+.child-average {flex:1;}/*平均分布，兼容旧版必须给宽度*/
+.child-first { order: 1;}/*排第一个*/
+/*子元素在侧轴的对齐方式*/
+.child-align-start {align-self:flex-start;}
+.child-align-end {align-self:flex-end;}
+.child-align-center {align-self:center;}
+.child-align-baseline {align-self:baseline;}
+.child-align-stretch {align-self:stretch;}
+
+.full-screen{position: absolute;top:0;right:0;bottom:0;left:0;width:750px;}
