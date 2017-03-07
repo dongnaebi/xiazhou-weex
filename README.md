@@ -11,6 +11,7 @@ $ npm install
 ## Build and Serve(构建并运行服务) ##
 ```bash
 $ npm run build
+$ npm run build:weex #extend
 $ npm run serve #localhost:8080
 ```
 
